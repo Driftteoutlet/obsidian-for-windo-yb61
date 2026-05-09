@@ -1,4 +1,4 @@
-
+Enhance Obsidian for Windows with secure Obsidian for Windows Automation | rich-text-editing + database-creation, the #1 automation. Includes rich-text-editing and
 
 
 
